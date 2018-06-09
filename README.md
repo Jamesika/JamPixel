@@ -1,6 +1,9 @@
 # JamPixel
-8*8 Pixel font. Only supply the characters on my keyboard (A-Z, a-z, and some punctuations) 
+8*8 Pixel font. Only supply the characters on my keyboard (A-Z, a-z, and some punctuations)   
 
+I use [BitFontMaker2](http://www.pentacom.jp/pentacom/bitfontmaker2/)
+ to create this font.
+ 
 ---  
 ## Screen Shots
 JamPixelNoneMono.ttf  
